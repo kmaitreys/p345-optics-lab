@@ -1,2 +1,2 @@
 # p345-optics-lab
-Laboratory reports of the P343 Modern Physics Lab course at NISER.
+Laboratory reports of the P345 OpticsLab course at NISER.
